@@ -3,13 +3,13 @@
   "author": "Joshua Jung <joshua.p.jung@gmail.com>",
   "license": "MIT",
   "description": "A HashArray that automatically groups all added items. See the npm hasharray project.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "url": "https://github.com/joshjung/hash-array-grouping",
   "homepage": "https://github.com/joshjung/hash-array-groupin",
   "email": "joshua.p.jung@gmail.com",
   "dependencies": {
-    "hasharray": "^0.2.4"
+    "hasharray": "^0.2.8"
   },
   "repository": {
     "type": "git",
